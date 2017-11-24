@@ -1,7 +1,7 @@
-Component Building
+Airbnn Listing
 ==================
 
-Sample project to explore component development in react
+Assignment project to kick start reactjs
 
 How To Run
 ----------
@@ -17,6 +17,6 @@ Then just do the following:
 Contributor
 ------------
 
-Rashidul Islam Rana ([@rashidul0405](https://github.com/rashidul0405))
+Shovan Kumar Paul
 
-Muhammad Kamarul Kawnayeen ([@kawnayeen](https://github.com/kawnayeen))
+Abu Saleh Md. Musa
