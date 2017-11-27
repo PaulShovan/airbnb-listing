@@ -1,4 +1,4 @@
-Airbnn Listing
+Airbnb Listing
 ==================
 
 Assignment project to kick start reactjs

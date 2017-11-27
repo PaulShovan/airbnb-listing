@@ -12,3 +12,67 @@ i.icon {
     margin: 0;
 }
 
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.wrap {
+    flex-wrap: wrap;
+}
+.list-item{
+    height: 300px;
+    width: 400px;
+}
+.list-item-img{
+    height: 100%;
+    width: 100%;
+}
+.list-item-container{
+    padding-right: 1%;
+    padding-bottom: 1%;
+}
+.list-item-title{
+    font-weight: 700 !important;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+    font-size: 12px !important;
+    line-height: 16px !important;
+    letter-spacing: 0.4px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    color: #484848 !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    text-transform: uppercase !important;
+    white-space: nowrap !important;
+    margin-bottom: 2px !important;
+}
+.list-item-description{
+    font-weight: 700 !important;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+    font-size: 19px !important;
+    line-height: 22px !important;
+    letter-spacing: undefined !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    color: #484848 !important;
+    max-height: 44px !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    margin-bottom: 4px !important;
+}
+.list-item-price{
+    font-weight: 300 !important;
+    font-family: Circular,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,sans-serif !important;
+    font-size: 15px !important;
+    line-height: 18px !important;
+    letter-spacing: 0.2px !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+    color: #484848 !important;
+}
+
+
