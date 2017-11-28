@@ -53,7 +53,6 @@ export default class AirbnbListingApp extends Component{
         }
         else{
             const filteredItems = listingSeed.filter(item => item.categories.indexOf(exploreItem) >= 0);
-            
             this.setState({
                 listItems: filteredItems,
                 filtered: true
