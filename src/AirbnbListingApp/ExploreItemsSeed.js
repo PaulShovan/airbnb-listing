@@ -1,5 +1,10 @@
 const exploreItems = [
     {
+        id : 0,
+        name : "All",
+        imageUrl : "https://a0.muscache.com/ac/pictures/8b7519ec-2c82-4c09-8233-fd4d2715bbf9.jpg?interpolation=lanczos-none&size=large&output-format=jpg&output-quality=70"
+    },
+    {
         id : 1,
         name : "Homes",
         imageUrl : "https://a0.muscache.com/ac/pictures/8b7519ec-2c82-4c09-8233-fd4d2715bbf9.jpg?interpolation=lanczos-none&size=large&output-format=jpg&output-quality=70"

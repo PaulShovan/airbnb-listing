@@ -74,5 +74,18 @@ i.icon {
     padding-bottom: 0px !important;
     color: #484848 !important;
 }
+.favorite-button{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+.favorite-selected {
+    fill: black;
+}
 
 
